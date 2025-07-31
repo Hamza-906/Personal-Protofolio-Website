@@ -1,2 +1,2 @@
 # Personal-Protofolio-Website
-In this responsive protfolio website with HTML, CSS and JavaScript.
+I created a responsive protfolio website with HTML, CSS and some basics of JavaScript.
